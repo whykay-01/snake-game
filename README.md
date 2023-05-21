@@ -3,7 +3,7 @@
 
 1. Install python 3.7
 
-````bash
+```bash
 pip install pygame
 ```
 
