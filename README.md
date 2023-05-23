@@ -7,7 +7,7 @@
 pip install pygame
 ```
 
-2. Install pygame
+2. Install pygame module to your python environment
 
 ```bash
 pip install pygame
