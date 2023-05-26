@@ -1,9 +1,3 @@
-# write a snake game in PyGame
-#
-# to this snippet:
-# ```python
-
-
 import pygame
 import random
 import time
