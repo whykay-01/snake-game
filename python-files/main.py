@@ -2,9 +2,7 @@ import pygame
 pygame.init()
 screen = pygame.display.set_mode((400,300))
 pygame.display.set_caption("Snake Game")
-# icon = pygame.image.load("python-files/icon.png")
-# pygame.display.set_icon(icon)
- 
+
 blue=(0,0,255)
 red=(255,0,0)
  
